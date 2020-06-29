@@ -15,7 +15,12 @@ If the repo is already on the Wombat, enter the `IncredibotsWombat` directory an
 ```bash
 git pull origin master
 ```
-4. Run the setup script with `setup_wombat.sh`
+4. Run the setup script:
+```bash
+cd IncredibotsWombat/
+./setup_wombat.sh
+```
+5. When you are finished, exit the terminal with `Ctrl+D`
 
 
 ## :gear: Wombat Technical Specs
