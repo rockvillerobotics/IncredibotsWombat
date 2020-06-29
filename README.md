@@ -3,6 +3,8 @@ Custom settings for the Wombat. The Ethernet port on the Wombat makes it trivial
 
 
 ## :rocket: Quick Start
+Before you start, you're going to want a USB keyboard, and maybe a mouse.
+
 1. Connect the Wombat to internet using the Ethernet port.
 2. Open the terminal in the Wombat: Use `Alt+F2` and then type `x-terminal-emulator` and hit the green checkmark.
 3. Clone this repository if it is not already on the Wombat:
@@ -20,8 +22,8 @@ git pull origin master
 - OS: `Raspbian GNU/Linux 8 (jessie)`
 - Kernel: `Linux 4.1.19-v7+`
 - Architecture: `arm`
-- USB Ports: 4
-- Ethernet Port: 1
+- USB Ports: `4`
+- Ethernet Port: `1`
 
 
 ## :file_folder: Wombat File Structure
