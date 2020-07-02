@@ -1,4 +1,4 @@
-# :koala: Incredibots Wombat
+<h1 align="center">:koala: Incredibots Wombat</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Team_Number-0333-orange.svg" /></a>
   <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL_3.0-lightgray.svg" /></a>
