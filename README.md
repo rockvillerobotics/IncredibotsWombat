@@ -1,7 +1,4 @@
-# :koala: Incredibots Wombat
-<img src="https://img.shields.io/badge/Team_Number-0333-orange.svg" /></a>
-<a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL_3.0-lightgray.svg" /></a>
-<a href="https://gitpod.io/#https://github.com/rockvillerobotics/IncredibotsWombat"><img src="https://img.shields.io/badge/Gitpod-supported-blue?logo=gitpod" /></a>
+# :koala: Incredibots Wombat <img src="https://img.shields.io/badge/Team_Number-0333-orange.svg" /></a> <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL_3.0-lightgray.svg" /></a> <a href="https://gitpod.io/#https://github.com/rockvillerobotics/IncredibotsWombat"><img src="https://img.shields.io/badge/Gitpod-supported-blue?logo=gitpod" /></a>
 
 Custom settings for the Wombat. The Ethernet port on the Wombat makes it trivial to attach the Wombat to wifi, and therefore to pull code down from GitHub.
 
