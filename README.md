@@ -1,12 +1,9 @@
-<h1 align="center">:koala: Incredibots Wombat</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Team_Number-0333-orange.svg" /></a>
-  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL_3.0-lightgray.svg" /></a>
-  <a href="https://gitpod.io/#https://github.com/rockvillerobotics/IncredibotsWombat"><img src="https://img.shields.io/badge/Gitpod-supported-blue?logo=gitpod" /></a>
-</p>
-
+# :koala: Incredibots Wombat
 Custom settings for the Wombat. The Ethernet port on the Wombat makes it trivial to attach the Wombat to wifi, and therefore to pull code down from GitHub.
 
+<img src="https://img.shields.io/badge/Team_Number-0333-orange.svg" /></a>
+<a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL_3.0-lightgray.svg" /></a>
+<a href="https://gitpod.io/#https://github.com/rockvillerobotics/IncredibotsWombat"><img src="https://img.shields.io/badge/Gitpod-supported-blue?logo=gitpod" /></a>
 
 ## :rocket: Quick Start
 Before you start, you're going to want a USB keyboard, and maybe a mouse.
