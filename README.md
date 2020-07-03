@@ -24,6 +24,8 @@ git pull origin master
 cd IncredibotsWombat/
 ./setup_wombat.sh
 ```
+When prompted to continue, hit `Y`.
+
 5. When you are finished, exit the terminal with `Ctrl+D`
 
 
