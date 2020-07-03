@@ -33,9 +33,12 @@ cd IncredibotsWombat/
 - Architecture: `arm`
 - USB Ports: `4`
 - Ethernet Port: `1`
+- Wireless IP: http://192.168.125.1:8888
+- Wired w/ Ethernet Cable IP: http://169.254.169.94:8888
 
 
 ## :file_folder: Wombat File Structure
+- The home directory `~` is located at `/home/pi`
 - Code is stored in `/home/root/Documents/KISS/`user/project/
 - Within the project, user/project/`bin/botball_user_program` is a symbolic link to the main file in `bin/`. In Python, this would be `bin/main.py`
 - Source code exists in both user/project/`bin/` and user/project/`src/` directories. We are not sure which of these is essential at the moment, so upload to both just in case.

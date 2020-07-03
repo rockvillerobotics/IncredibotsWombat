@@ -1,0 +1,4 @@
+extraKeys: {
+  Tab: (cm) => cm.execCommand("indentMore"),
+  "Shift-Tab": (cm) => cm.execCommand("indentLess"),
+},
