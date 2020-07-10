@@ -16,9 +16,9 @@ if [[ $REPLY =~ ^[Yy]$ ]]
 then
 
     # Add Terminal and Web Browsers to Desktop.
-    ls -s /usr/share/applications/lxterminal.desktop /home/pi/Desktop
-    ls -s /usr/share/applications/netsurf-gtk.desktop /home/pi/Desktop
-    ls -s /usr/share/applications/epiphany-browser.desktop /home/pi/Desktop
+    ln -s /usr/share/applications/lxterminal.desktop /home/pi/Desktop
+    ln -s /usr/share/applications/netsurf-gtk.desktop /home/pi/Desktop
+    ln -s /usr/share/applications/epiphany-browser.desktop /home/pi/Desktop
 
     # Change the Wombat's Python compiler to use Python3.
     # I copy the original file to a backup just in case, and only do this the first time this script is run.
